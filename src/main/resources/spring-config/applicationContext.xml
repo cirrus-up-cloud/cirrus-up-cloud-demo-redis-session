@@ -10,6 +10,6 @@
 
     <context:component-scan base-package="cloud.cirrusup.*"/>
 
-    <import resource="cache.xml"/>
+    <import resource="session.xml"/>
 
 </beans>
